@@ -1,2 +1,3 @@
 postgres:latest
 1panel/maxkb
+ollama/ollama
