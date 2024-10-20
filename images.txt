@@ -1,6 +1,4 @@
 postgres:latest
 1panel/maxkb
 ollama/ollama
-rustdesk/rustdesk-server
-thtom/rustdesk-server
 ffdfgdfg/nps
