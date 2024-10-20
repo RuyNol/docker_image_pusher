@@ -3,4 +3,5 @@ postgres:latest
 ollama/ollama
 rustdesk/rustdesk-server
 thtom/rustdesk-server
+ffdfgdfg/nps
 nps
