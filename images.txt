@@ -4,3 +4,5 @@ ollama/ollama
 ffdfgdfg/nps
 rocker/rstudio:latest
 rocker/rstudio:4.3.3
+rocker/rstudio
+rstudio
