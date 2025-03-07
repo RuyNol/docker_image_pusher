@@ -2,3 +2,5 @@ postgres:latest
 1panel/maxkb
 ollama/ollama
 ffdfgdfg/nps
+rocker/rstudio:latest
+rocker/rstudio:4.3.3
